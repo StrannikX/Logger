@@ -1,0 +1,12 @@
+{
+    "name": "strannik/logger",
+    "require": {},
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Logger\\": "Logger/"
+        }
+    }
+}
